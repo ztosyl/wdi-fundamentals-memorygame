@@ -40,6 +40,14 @@ h2 {
   font-size: 20px;
 }
 
+h3{
+  color: #0D2C40;
+  letter-spacing: 0.05em;
+  font-weight: 800;
+  font-size: 18px;
+  text-align: left;
+}
+
 p {
   font-family: "Droid Serif", serif;
   line-height: 26px;
@@ -84,6 +92,17 @@ MAIN SECTION
 main {
   width: 850px;
   margin: 35px auto;
+}
+
+button{
+	background-color: #00A6B3;
+	color: white;
+	font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+    padding: 5px 20px;
+    border-color: #00d6e6;
 }
 
 
